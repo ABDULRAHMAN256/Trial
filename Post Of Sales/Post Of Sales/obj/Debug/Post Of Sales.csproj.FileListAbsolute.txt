@@ -1,0 +1,15 @@
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\bin\Debug\Post Of Sales.exe.config
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\bin\Debug\Post Of Sales.exe
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\bin\Debug\Post Of Sales.pdb
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post Of Sales.csprojResolveAssemblyReference.cache
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.DashBoard.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Form1.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Properties.Resources.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post Of Sales.csproj.GenerateResource.Cache
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post Of Sales.exe
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post Of Sales.pdb
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Supplier.Supplier.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Supplier.Add_New__Supplier.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Stockin.Stock.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Stockin.New_Stock.resources
+C:\Users\HAFSWA\Desktop\POST_OF_SALES\Post Of Sales\Post Of Sales\obj\Debug\Post_Of_Sales.Stockin.New_Order.resources

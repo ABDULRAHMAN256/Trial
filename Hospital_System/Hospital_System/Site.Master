@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Hospital_System.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        RUBIRIZI HOSPITAL
+    </title>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bootstrap/css/StyleSheet1.css" rel="stylesheet" />
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bootstrap/vendor/StyleSheet1.css" rel="stylesheet" />
+    <link href="vendor/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="d-flex" id="wrapper">
+
+    <div class="bg-light border-right" id="sidebar-wrapper">
+        <div class="sidebar-heading">RUBIRIZI HOSPITAL</div>
+        <div class="list-group list-group-flush">
+            <a href="Default.aspx" class="list-group-item list-group-item-action bg-light">Dashboard</a>
+            <a href="Patients.aspx" class="list-group-item list-group-item-action bg-light">Patients</a>
+            <a href="Doctors.aspx" class="list-group-item list-group-item-action bg-light">Doctors</a>
+            <a href="Appointments.aspx" class="list-group-item list-group-item-action bg-light">Appointments</a>
+            <a href="Billing.aspx" class="list-group-item list-group-item-action bg-light">Billing</a>
+        </div>
+    </div>
+
+    <div id="page-content-wrapper">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+            <button type="button" id="menu-toggle" class="btn btn-primary">Menu</button>
+        </nav>
+
+        <div class="container-fluid mt-4">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+
+</div>
+        <script src="bootstrap/js/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+<script>
+    document.getElementById("menu-toggle").addEventListener("click", function (e) {
+        e.preventDefault();
+        document.getElementById("wrapper").classList.toggle("toggled");
+    });
+</script>
+    </form>
+</body>
+</html>

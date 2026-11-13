@@ -1,0 +1,7 @@
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\bin\Hospital_System.dll.config
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\bin\Hospital_System.dll
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\bin\Hospital_System.pdb
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\bin\MySql.Data.dll
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\obj\Debug\Hospital_System.dll
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\obj\Debug\Hospital_System.pdb
+C:\Users\HAFSWA\Desktop\KIVUMBI_ADRIAN\Hospital_System\Hospital_System\obj\Debug\Hospital_System.csprojResolveAssemblyReference.cache
